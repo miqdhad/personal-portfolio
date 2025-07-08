@@ -138,6 +138,14 @@ h6 {
     transform: rotate(360deg);
   }
 }
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #fff; /* or #f8f9fa for light gray */
+  z-index: -1;
+}
+
 
 /*--------------------------------------------------------------
 # Global Header
